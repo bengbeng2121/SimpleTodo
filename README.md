@@ -30,6 +30,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+[The pre-work requirement](https://quip.com/hkvaAhMAxvpK)
 
 ## License
     Copyright 2016 binhle12
